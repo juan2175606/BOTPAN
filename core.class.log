@@ -1,0 +1,5735 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573026329191@s.whatsapp.net',
+    fromMe: false,
+    id: 'DE13AA2FE896132CA8FBB0544D6032F1',
+    participant: undefined
+  },
+  messageTimestamp: 1706793778,
+  pushName: 'Panaderia Trigo Del Cielo',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573026329191'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573026329191@s.whatsapp.net',
+    fromMe: false,
+    id: 'DE13AA2FE896132CA8FBB0544D6032F1',
+    participant: undefined
+  },
+  messageTimestamp: 1706793779,
+  pushName: 'Panaderia Trigo Del Cielo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quisiera más información sobre las vitrinas para panadería ',
+      canonicalUrl: 'https://www.instagram.com/p/C2fqJzbgL9-/',
+      description: 'Empieza el año con el compromiso de hacer crecer tu panadería. Nuestras máquinas están diseñadas para elevar la calidad y eficiencia de tus productos. !Cumple tu propósito y lleva tu negocio a otro nivel! 🥖🥖🍞🍞 #panaderia #panaderiacolombiana #vitrinascolombia #hornopanaderia #pan #cafeteria',
+      title: 'Horopan SAS',
+      previewType: 0,
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Panaderia Trigo Del Cielo',
+  body: 'Quisiera más información sobre las vitrinas para panadería ',
+  from: '573026329191'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7a77e62c-757c-4f39-af95-148f8b65c33c',
+  keyword: 'key_6a1e1c81-612b-4505-8284-ac2ba70a62fb',
+  answer: 'Vitrina refrigerada en acero inoxidable, logo personalizado e iluminación LED, doble entrepaño para evitar empañamiento , vitrina seca en acero inoxidable, logo personalizado e iluminación LED',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15b1f1c5d72aa5d7f5e5f3c247588c20'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25ee6a0d-38d2-441e-b28b-a321a9ea7ea1',
+  keyword: 'ans_7a77e62c-757c-4f39-af95-148f8b65c33c',
+  answer: 'Vitrina refrigerada (acero inoxidable) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 6.100.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e5ec3db4c02f04c6616272ec935a7b03'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_532bca77-2f93-43a1-a446-70f1a8198922',
+  keyword: 'ans_25ee6a0d-38d2-441e-b28b-a321a9ea7ea1',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/D8njhd0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9a249acf12f1fb59adec1490d8921e05'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5c73b452-a9d7-4fbc-850d-eb5b612bc0bc',
+  keyword: 'ans_532bca77-2f93-43a1-a446-70f1a8198922',
+  answer: 'Vitrina refrigerada (acero inoxidable con recubrimiento en madera) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 6.750.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '584ebded9b2948e0b9109867f7afa61a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ff9b382f-6d50-442f-a008-a4e81430a72d',
+  keyword: 'ans_5c73b452-a9d7-4fbc-850d-eb5b612bc0bc',
+  answer: 'Vitrina seca (acero inoxidable) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 4.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '32f5fd76713dff72cd39f87326968a83'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c57b2ab-1363-4606-9725-cf929e21dc1a',
+  keyword: 'ans_ff9b382f-6d50-442f-a008-a4e81430a72d',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/Dd2z68v.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b0c30f47312fa3ff2b89341cb043fdb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb2dea24-4c31-4584-b34e-1238cf4376e7',
+  keyword: 'ans_8c57b2ab-1363-4606-9725-cf929e21dc1a',
+  answer: 'Vitrina seca  (acero inoxidable con recubrimiento en madera) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 5.150.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1dbddde02d4789e22ec7447a8bd263d0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c3b9601-4b75-4d71-ba15-2d20b84bafdc',
+  keyword: 'ans_eb2dea24-4c31-4584-b34e-1238cf4376e7',
+  answer: 'Vitrina Canastero\n*Precio:* 16.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '207be0cb6ac461e10feb46a75fe43503'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1e4d36d7-c952-458a-a189-4f1922d21712',
+  keyword: 'ans_8c3b9601-4b75-4d71-ba15-2d20b84bafdc',
+  answer: 'Set vitrinas (Acero inoxidable) Seca, refrigerada y punto de pago\n' +
+    '*Precio:* 13.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '123c964a3364be22aa867cb86d0a9146'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6ab9ec24-9ebc-44a7-bdfa-13e95a25fedc',
+  keyword: 'ans_1e4d36d7-c952-458a-a189-4f1922d21712',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/8EYPh7b.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f3e8546b975d4222c173ed8a5e7dbdba'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1f4a698-87c5-4162-99e9-724af8dd554d',
+  keyword: 'ans_6ab9ec24-9ebc-44a7-bdfa-13e95a25fedc',
+  answer: 'Set vitrinas (Acero inoxidable con recubrimiento en madera) Seca, refrigerada y punto de pago\n' +
+    '*Precio:* 15.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '920c591e5c50097132c16f1ea96147a3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2edbae76-8a89-42f9-970a-04c0387fdf2c',
+  keyword: 'ans_a1f4a698-87c5-4162-99e9-724af8dd554d',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/niEC4r0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41753a509740cc6d5b3d95865fb22d1a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_65a112fb-f4c8-429a-b58e-c34a328d5e0c',
+  keyword: 'ans_2edbae76-8a89-42f9-970a-04c0387fdf2c',
+  answer: 'Escriba *medidas diferentes* Si te interesa cotizar vitrina sobre medidas especificas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bccc95804576aef100f91ccd80f7849c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_59000be6-945e-4f95-b541-a9dc5198c5cc',
+  keyword: 'ans_65a112fb-f4c8-429a-b58e-c34a328d5e0c',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8943b17f1aef721d25b7343f7bdab8e7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573026329191@s.whatsapp.net',
+    fromMe: false,
+    id: 'FC5F4A3DBE6D6858CE21E5D3893DDC2E',
+    participant: undefined
+  },
+  messageTimestamp: 1706794011,
+  pushName: 'Panaderia Trigo Del Cielo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quisiera mas información sobre las batidoras para panadería',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Panaderia Trigo Del Cielo',
+  body: 'Quisiera mas información sobre las batidoras para panadería',
+  from: '573026329191'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_90709ff4-a467-4c39-aa19-cb521dda66bb',
+  keyword: 'key_6d77c6b3-5de7-44b8-9592-77ceeaab4957',
+  answer: 'Batidora industrial viene en capacidades de 10L, 20L, 30L y 40L, 3 velocidades con motor de 1hp, viene con sus accesorios: Paleta, gancho y globo en acero inoxidable, con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1509271259f84c63ac257eae30540151'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a3007cf5-dee5-486d-b966-625471c298fb',
+  keyword: 'ans_90709ff4-a467-4c39-aa19-cb521dda66bb',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/sV5EkBu.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b59bc2f6ec8a791d54df67cf6f857961'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a6945512-f064-4bde-b578-3964895be69a',
+  keyword: 'ans_a3007cf5-dee5-486d-b966-625471c298fb',
+  answer: 'Batidora 10L\n*Precio:* 2.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '16888255fddcc1465fbddb4f4109f4b7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1946b71f-244b-4502-9156-d6f544032b8b',
+  keyword: 'ans_a6945512-f064-4bde-b578-3964895be69a',
+  answer: 'Batidora 20L\n*Precio:* 3.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0be488c004e5cb263da8e6d22c1e17e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5c0a3420-08a8-4f0f-a09c-ff444047cee3',
+  keyword: 'ans_1946b71f-244b-4502-9156-d6f544032b8b',
+  answer: 'Batidora 30L\n*Precio:* 5.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b709dcd814495ea40b823255c628aa21'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc7a3631-49bb-4065-aa86-d66c15150377',
+  keyword: 'ans_5c0a3420-08a8-4f0f-a09c-ff444047cee3',
+  answer: 'Batidora 40L\n*Precio:* 10.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9c5711ca86d5ea6cf857f1309519f17a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7a37068e-6d51-4c07-939f-78670aaa7842',
+  keyword: 'ans_fc7a3631-49bb-4065-aa86-d66c15150377',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0b23faa6e231b0df3732d88202b06ae6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573217562296@s.whatsapp.net',
+    fromMe: false,
+    id: '617824A0F8F69C8F12FD70792CCF055B',
+    participant: undefined
+  },
+  messageTimestamp: 1706794062,
+  pushName: '🫶🏼✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '573217562296'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8314bff4-1f07-4c82-8d9f-bcd7f1f6a2f8',
+  keyword: 'key_618dab1e-6c70-48f0-b52c-55f98079c85f',
+  answer: 'Fue un gusto hablar contigo, estaremos aqui pendiente de cualquier duda que pueda tener',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ce5a6affd30ebb4b7da3cc532e0426f8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573026329191@s.whatsapp.net',
+    fromMe: false,
+    id: 'EF716CF8927925C3AD5BE9E0757B36E6',
+    participant: undefined
+  },
+  messageTimestamp: 1706794140,
+  pushName: 'Panaderia Trigo Del Cielo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Batidoras trabajo pesado',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Panaderia Trigo Del Cielo',
+  body: 'Batidoras trabajo pesado',
+  from: '573026329191'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_90709ff4-a467-4c39-aa19-cb521dda66bb',
+  keyword: 'key_6d77c6b3-5de7-44b8-9592-77ceeaab4957',
+  answer: 'Batidora industrial viene en capacidades de 10L, 20L, 30L y 40L, 3 velocidades con motor de 1hp, viene con sus accesorios: Paleta, gancho y globo en acero inoxidable, con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1509271259f84c63ac257eae30540151'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a3007cf5-dee5-486d-b966-625471c298fb',
+  keyword: 'ans_90709ff4-a467-4c39-aa19-cb521dda66bb',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/sV5EkBu.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b59bc2f6ec8a791d54df67cf6f857961'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a6945512-f064-4bde-b578-3964895be69a',
+  keyword: 'ans_a3007cf5-dee5-486d-b966-625471c298fb',
+  answer: 'Batidora 10L\n*Precio:* 2.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '16888255fddcc1465fbddb4f4109f4b7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1946b71f-244b-4502-9156-d6f544032b8b',
+  keyword: 'ans_a6945512-f064-4bde-b578-3964895be69a',
+  answer: 'Batidora 20L\n*Precio:* 3.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0be488c004e5cb263da8e6d22c1e17e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5c0a3420-08a8-4f0f-a09c-ff444047cee3',
+  keyword: 'ans_1946b71f-244b-4502-9156-d6f544032b8b',
+  answer: 'Batidora 30L\n*Precio:* 5.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b709dcd814495ea40b823255c628aa21'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc7a3631-49bb-4065-aa86-d66c15150377',
+  keyword: 'ans_5c0a3420-08a8-4f0f-a09c-ff444047cee3',
+  answer: 'Batidora 40L\n*Precio:* 10.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9c5711ca86d5ea6cf857f1309519f17a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7a37068e-6d51-4c07-939f-78670aaa7842',
+  keyword: 'ans_fc7a3631-49bb-4065-aa86-d66c15150377',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0b23faa6e231b0df3732d88202b06ae6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573026329191@s.whatsapp.net',
+    fromMe: false,
+    id: '29E86C3A36332E38E1E1C000075C1434',
+    participant: undefined
+  },
+  messageTimestamp: 1706794150,
+  pushName: 'Panaderia Trigo Del Cielo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hornos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Panaderia Trigo Del Cielo',
+  body: 'Hornos',
+  from: '573026329191'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d84612fa-8fd1-424a-a6cd-4e691ab474e2',
+  keyword: 'key_86d9c643-6e7c-432b-8878-4f27e562b508',
+  answer: 'Fabricamos horno estáticos y rotatorios en acero inoxidable desde 6 a 40 bandejas, la cantidad de carros extriables dependerá de la cantidad de bandejas (El horno de 6 bandejas es estatico y no tiene carro extraible), las bandejas vienen por separado (Costo de la docena: *470.000*), este horno funciona a 110V, tiene sistema de aislamiento del CO2 que permite que el producto no se contamine y proteger al usuario, el sistema que emplea para elevar la temperatura es gas natural o propano controlado por el sistema eléctrico.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebd9a4e8aa775e61692a77d891bd4345'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b3d12928-6076-4c48-a2b7-53c6dcce949b',
+  keyword: 'ans_d84612fa-8fd1-424a-a6cd-4e691ab474e2',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/szEU9ZJ.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5adc7b3251171db22434c40f09cd056'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_186b6080-d240-437b-9893-2a8f37f76785',
+  keyword: 'ans_b3d12928-6076-4c48-a2b7-53c6dcce949b',
+  answer: 'Horno 10 bandejas rotatorio\n*Precio:* 15.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '21ef4d1bb276ba1c0fd458604010f004'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ea11659c-8eca-4e6f-a31c-572f0d33d4ea',
+  keyword: 'ans_186b6080-d240-437b-9893-2a8f37f76785',
+  answer: 'Horno 10 bandejas estático\n*Precio:* 14.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab88d3e322ecbd91d5a5f843e0d6126f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_96f425c9-0fc2-44c8-9681-5fd10eb97f2b',
+  keyword: 'ans_ea11659c-8eca-4e6f-a31c-572f0d33d4ea',
+  answer: 'Horno 12 bandejas rotatorio\n*Precio:* 16.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '60fb0b03a4fc4b75682852242d540ee9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af980f9a-3407-4a6d-a382-7c62582ccb14',
+  keyword: 'ans_96f425c9-0fc2-44c8-9681-5fd10eb97f2b',
+  answer: 'Horno 15 bandejas rotatorio\n*Precio:* 19.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'abfdb0af77121067ad8825b6b5a1cada'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1c11318f-237a-442c-82b9-e66281b94134',
+  keyword: 'ans_af980f9a-3407-4a6d-a382-7c62582ccb14',
+  answer: 'Horno 18 bandejas rotatorio\n*Precio:* 21.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a91d5b6987e701f1a0e3db21544265dc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4bf83623-1cfa-431f-86b4-00ed2fc46889',
+  keyword: 'ans_1c11318f-237a-442c-82b9-e66281b94134',
+  answer: 'Horno 24 bandejas rotatorio\n*Precio:* 27.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97072a57fc321ab1e465bfa68f4eb92b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25f137f6-3837-436d-ba7d-604596028181',
+  keyword: 'ans_4bf83623-1cfa-431f-86b4-00ed2fc46889',
+  answer: 'Horno 40 bandejas rotatorio\n*Precio:* 45.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cb93f13863ee93a1beea92b182c19fc4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c43f2e92-805a-460c-85c2-e741e4f3738f',
+  keyword: 'ans_25f137f6-3837-436d-ba7d-604596028181',
+  answer: 'Te envio imagen del horno rotatorio',
+  options: {
+    media: 'https://i.imgur.com/Ymy4QdE.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a6332b3e37456cb8ce21249ff72b570a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe4b5440-1975-460a-9109-adcadab0d756',
+  keyword: 'ans_c43f2e92-805a-460c-85c2-e741e4f3738f',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/sV3iyz0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cdedb069b89bd537bcc71b49fd24fe56'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28398a97-d6a0-480e-a76e-8e498dd03bab',
+  keyword: 'ans_fe4b5440-1975-460a-9109-adcadab0d756',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/ITrkoJ7.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7dceb50d9df14dd2292ebf2fe6225781'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af8e4042-e719-4f68-9d15-bf1538089160',
+  keyword: 'ans_28398a97-d6a0-480e-a76e-8e498dd03bab',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/4hNGqNa.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ff9e0be3b147b9237281d7533251d913'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2a8cff4a-e85a-4246-b448-1cf3befe075c',
+  keyword: 'ans_af8e4042-e719-4f68-9d15-bf1538089160',
+  answer: 'Escriba *medidas diferentes* Si te interesa un horno sobre otros tamaños',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f62da968d6dbfd3280708dc7fc1b53cd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9745aff5-98bf-449f-965f-b96d3272ec15',
+  keyword: 'ans_2a8cff4a-e85a-4246-b448-1cf3befe075c',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8dc0140b477ec7766c43c961aa393bd4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573225896081@s.whatsapp.net',
+    fromMe: false,
+    id: '366B009345F78BB54F0759708AA46BF1',
+    participant: undefined
+  },
+  messageTimestamp: 1706794278,
+  pushName: 'nairober74@gmail.com',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11729531_1786156875193284_1069714096054213995_n.enc?ccb=11-4&oh=01_AdQoSc-iI6obrx2cZ5s3nAjnZz78FhKfmXa9Dv9zGavFmQ&oe=65E30D16&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 28,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11729531_1786156875193284_1069714096054213995_n.enc?ccb=11-4&oh=01_AdQoSc-iI6obrx2cZ5s3nAjnZz78FhKfmXa9Dv9zGavFmQ&oe=65E30D16&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__0fce7208-a1bb-4b2f-9a85-18c6cdbfb276',
+  from: '573225896081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: '9A94B8E6F932F8AFFB',
+    participant: undefined
+  },
+  messageTimestamp: 1706794321,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola buenos dias. Continuo disponible para ti? Aun necesitas ayuda?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: 'Hola buenos dias. Continuo disponible para ti? Aun necesitas ayuda?',
+  from: '5213319309511'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  keyword: 'key_239e45ff-7d2b-4ec3-9013-ed69e241dd3d',
+  answer: 'HOROPAN SAS\n' +
+    '¡Bienvenido al chat de HOROPAN SAS - Fabricadores de Equipos de Panadería! 🍞 Aquí encontrarás todo lo que necesitas para llevar tus creaciones al siguiente nivel.\n' +
+    '¡Haz tus preguntas, comparte ideas y descubre lo mejor en equipos de panadería! ¡Vamos a hornear éxitos juntos! 🎉',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bae7f585b28457cbc55884d500bde80b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  keyword: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  answer: 'Nuestros horarios de atencion son: Lunes a viernes de 7-5pm y sabado de 7-12pm. Dejanos tu mensaje y cuando uno de nuetros asesores esté disponible te responderemos y daremos respuesta a tu solicitud',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '100a8b4137fd8bf874cbc35bb98472fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  keyword: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  answer: 'Escriba Menú en cualquier momento para regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd71ead6f4d9c44375067390ff15bc79'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  keyword: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  answer: 'Escribe *Adquirir equipos* Si te interesa cotizar equipos HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f922fd42a524fd98bc580aa7822b9e57'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  keyword: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  answer: 'Escribe *Servicio de Garantia* Si te interesa gestionar la garantia para tu equipo HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c26be660f5a57dd2e706998d34f80f0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  keyword: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  answer: 'Escribe *Financiación* Si te interesa conocer sobre nuestros planes de financiación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e4be05e1f2cdfb2a8c135935ea35ddfe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10f75146-d216-427a-bca9-9353809c0c1f',
+  keyword: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  answer: 'Escribe *Otras solicitudes* Si te interesa cotizar equipos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7225e843c1c5096b979adf8fe0fd0b41'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: '8C0D3F093659C5141F',
+    participant: undefined
+  },
+  messageTimestamp: 1706794355,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: 'Aguardo su respuesta.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: 'Aguardo su respuesta.',
+  from: '5213319309511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: '3049CC369FC1AD86B0',
+    participant: undefined
+  },
+  messageTimestamp: 1706794410,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si. Ese procedimiento era para descarte.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: 'Si. Ese procedimiento era para descarte.',
+  from: '5213319309511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: '3CBD6C1BA59C7EB401',
+    participant: undefined
+  },
+  messageTimestamp: 1706794417,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: 'La falla a retornado?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: 'La falla a retornado?',
+  from: '5213319309511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573022662703@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8C44710BF6C0F751AD',
+    participant: undefined
+  },
+  messageTimestamp: 1706795375,
+  pushName: 'Lidys Arroyo Ramos',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quisiera más información sobre los montajes para panadería ',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quisiera más información sobre los montajes para panadería ',
+  from: '573022662703'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: 'C4A6D35CBAE112E39C',
+    participant: undefined
+  },
+  messageTimestamp: 1706795712,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: 'Continuo disponible para usted. Aun necesita de ayuda?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: 'Continuo disponible para usted. Aun necesita de ayuda?',
+  from: '5213319309511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: 'E290042C6EFA4E990D',
+    participant: undefined
+  },
+  messageTimestamp: 1706795779,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: 'En ese caso cuando la falla se presente debes comunicarte para asi validar de mejor forma',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: 'En ese caso cuando la falla se presente debes comunicarte para asi validar de mejor forma',
+  from: '5213319309511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: '3C7F3430204B85754F',
+    participant: undefined
+  },
+  messageTimestamp: 1706796055,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: 'Algo mas que pueda hacer por ti en estos momentos?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: 'Algo mas que pueda hacer por ti en estos momentos?',
+  from: '5213319309511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573022662703@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADF0CDA93FD869BE139',
+    participant: undefined
+  },
+  messageTimestamp: 1706796505,
+  pushName: 'Lidys Arroyo Ramos',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas que viene la amasadora o mojadora de harina',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas que viene la amasadora o mojadora de harina',
+  from: '573022662703'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  keyword: 'key_1a4d617e-1393-4f4a-b44e-ded95e55e083',
+  answer: 'Mojadora/amasadora viene en capacidades de 1/2@, 1@ y 2@, estas vienen de 1 velocidad a 110V y 2 velocidades 220V,  motor brasileño con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0e091eb8121b6ac651ab0379b8172201'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  keyword: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/FW0rveX.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b69e7e81182490c9a3bd3eb471dc3b06'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  keyword: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  answer: 'Mojadora 1/2@\n*Precio:* 5.800.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '88efd187d6270cf9a25352d838c7b4bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  keyword: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  answer: 'Mojadora 1@\n*Precio:* 7.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '38654dbc8cbe62eea6967f06b64d3973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  keyword: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  answer: 'Mojadora 2@\n*Precio:* 11.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02321bb72d1ee1a5cc7a0c6ec098e5b3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6d021934-b31b-45aa-b840-278c421d572f',
+  keyword: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '85ba1f4c5f4d3f74343058e9095dfdc0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: 'DB03AAFA65F23E8C36',
+    participant: undefined
+  },
+  messageTimestamp: 1706796619,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quedamos a sus órdenes de 08:00 a.m. - 10:00 p.m. de lunes a sábado y los domingos de 08:00 a.m. - 18:00 p.m. para cualquier apoyo adicional que necesite de nuestra parte. Gracias por contactar al soporte de WhatsApp de HP.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: 'Quedamos a sus órdenes de 08:00 a.m. - 10:00 p.m. de lunes a sábado y los domingos de 08:00 a.m. - 18:00 p.m. para cualquier apoyo adicional que necesite de nuestra parte. Gracias por contactar al soporte de WhatsApp de HP.',
+  from: '5213319309511'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8314bff4-1f07-4c82-8d9f-bcd7f1f6a2f8',
+  keyword: 'key_618dab1e-6c70-48f0-b52c-55f98079c85f',
+  answer: 'Fue un gusto hablar contigo, estaremos aqui pendiente de cualquier duda que pueda tener',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ce5a6affd30ebb4b7da3cc532e0426f8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213319309511@s.whatsapp.net',
+    fromMe: false,
+    id: 'A64DD70FD9262BF97A',
+    participant: undefined
+  },
+  messageTimestamp: 1706796659,
+  pushName: '5213319309511',
+  broadcast: false,
+  message: Message {
+    conversation: '😊',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'HP Support',
+  body: '😊',
+  from: '5213319309511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573225896081@s.whatsapp.net',
+    fromMe: false,
+    id: 'D8DACB6A7B0BD24B7DBC1D7ADA2C16A1',
+    participant: undefined
+  },
+  messageTimestamp: 1706796843,
+  pushName: 'nairober74@gmail.com',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/28718494_782086913937452_6043238349343276938_n.enc?ccb=11-4&oh=01_AdSBYJEDW9alLr4NhoiFzJpuxwwlB0OQeAGxMClbRQ4MAQ&oe=65E30620&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 2,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/28718494_782086913937452_6043238349343276938_n.enc?ccb=11-4&oh=01_AdSBYJEDW9alLr4NhoiFzJpuxwwlB0OQeAGxMClbRQ4MAQ&oe=65E30620&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__11c3f5c7-33b4-4f8b-9727-6345b63bee14',
+  from: '573225896081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573225896081@s.whatsapp.net',
+    fromMe: false,
+    id: 'ADE9BE6F59D7B49FC02B824F52B4B7FC',
+    participant: undefined
+  },
+  messageTimestamp: 1706796892,
+  pushName: 'nairober74@gmail.com',
+  broadcast: false,
+  message: Message {
+    videoMessage: VideoMessage {
+      interactiveAnnotations: [],
+      url: 'https://mmg.whatsapp.net/v/t62.7161-24/26142151_1043725323504114_7965268568176269207_n.enc?ccb=11-4&oh=01_AdTlaFDd02BVPvLYBgX2bfxkATsIaiaZdTn78Ar2FsrY7w&oe=65E328BA&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'video/mp4',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 11,
+      mediaKey: [Uint8Array],
+      height: 864,
+      width: 480,
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7161-24/26142151_1043725323504114_7965268568176269207_n.enc?ccb=11-4&oh=01_AdTlaFDd02BVPvLYBgX2bfxkATsIaiaZdTn78Ar2FsrY7w&oe=65E328BA&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      streamingSidecar: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__59f88632-abcb-48cc-931d-4b978238c789',
+  from: '573225896081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573225896081@s.whatsapp.net',
+    fromMe: false,
+    id: '8B9948C23F88FF1E5E9561F494EBA66F',
+    participant: undefined
+  },
+  messageTimestamp: 1706796896,
+  pushName: 'nairober74@gmail.com',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/30518475_1082870439532089_4935054036083301018_n.enc?ccb=11-4&oh=01_AdTtkWf1rOE6tbny_7B-6J1XMVzt9rmgShfxhvH4c0RDWQ&oe=65E32E94&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 14,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/30518475_1082870439532089_4935054036083301018_n.enc?ccb=11-4&oh=01_AdTtkWf1rOE6tbny_7B-6J1XMVzt9rmgShfxhvH4c0RDWQ&oe=65E32E94&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__91697bad-c3c7-4adc-af08-fd82aac41587',
+  from: '573225896081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573225896081@s.whatsapp.net',
+    fromMe: false,
+    id: '6F8EE9D25E953AC88D3221821E95673E',
+    participant: undefined
+  },
+  messageTimestamp: 1706797040,
+  pushName: 'nairober74@gmail.com',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19430594_208744908930789_7108986524160842342_n.enc?ccb=11-4&oh=01_AdQ1hpcToB-17gt1quAqu4qtdU3lne23s6-ptcMNDRbVQQ&oe=65E30AB4&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 22,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19430594_208744908930789_7108986524160842342_n.enc?ccb=11-4&oh=01_AdQ1hpcToB-17gt1quAqu4qtdU3lne23s6-ptcMNDRbVQQ&oe=65E30AB4&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__69ff4a10-aa22-4f4e-96b2-2bd239be074e',
+  from: '573225896081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573225896081@s.whatsapp.net',
+    fromMe: false,
+    id: 'C7792990334A5B67BA9DC31521BBE1FE',
+    participant: undefined
+  },
+  messageTimestamp: 1706797056,
+  pushName: 'nairober74@gmail.com',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/30924909_1299882564304909_8033014558387034394_n.enc?ccb=11-4&oh=01_AdTpWC13CeLDWeDEEUJvN5l1S0LDYBcRa5_vCjtw97ExMA&oe=65E32259&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 11,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/30924909_1299882564304909_8033014558387034394_n.enc?ccb=11-4&oh=01_AdTpWC13CeLDWeDEEUJvN5l1S0LDYBcRa5_vCjtw97ExMA&oe=65E32259&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__69ee24bb-00ef-484b-acc1-500ffd9fefcc',
+  from: '573225896081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573022662703@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB794F2641AF19890F4',
+    participant: undefined
+  },
+  messageTimestamp: 1706797556,
+  pushName: 'Lidys Arroyo Ramos',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '573022662703'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8314bff4-1f07-4c82-8d9f-bcd7f1f6a2f8',
+  keyword: 'key_618dab1e-6c70-48f0-b52c-55f98079c85f',
+  answer: 'Fue un gusto hablar contigo, estaremos aqui pendiente de cualquier duda que pueda tener',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ce5a6affd30ebb4b7da3cc532e0426f8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103090582@s.whatsapp.net',
+    fromMe: false,
+    id: 'EB165D11EDA61B9CA805E66799012B5D',
+    participant: undefined
+  },
+  messageTimestamp: 1706798780,
+  pushName: 'Carolina',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573103090582'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103090582@s.whatsapp.net',
+    fromMe: false,
+    id: 'EB165D11EDA61B9CA805E66799012B5D',
+    participant: undefined
+  },
+  messageTimestamp: 1706798781,
+  pushName: 'Carolina',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buenos días',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenos días',
+  from: '573103090582'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  keyword: 'key_239e45ff-7d2b-4ec3-9013-ed69e241dd3d',
+  answer: 'HOROPAN SAS\n' +
+    '¡Bienvenido al chat de HOROPAN SAS - Fabricadores de Equipos de Panadería! 🍞 Aquí encontrarás todo lo que necesitas para llevar tus creaciones al siguiente nivel.\n' +
+    '¡Haz tus preguntas, comparte ideas y descubre lo mejor en equipos de panadería! ¡Vamos a hornear éxitos juntos! 🎉',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bae7f585b28457cbc55884d500bde80b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  keyword: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  answer: 'Nuestros horarios de atencion son: Lunes a viernes de 7-5pm y sabado de 7-12pm. Dejanos tu mensaje y cuando uno de nuetros asesores esté disponible te responderemos y daremos respuesta a tu solicitud',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '100a8b4137fd8bf874cbc35bb98472fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  keyword: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  answer: 'Escriba Menú en cualquier momento para regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd71ead6f4d9c44375067390ff15bc79'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  keyword: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  answer: 'Escribe *Adquirir equipos* Si te interesa cotizar equipos HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f922fd42a524fd98bc580aa7822b9e57'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  keyword: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  answer: 'Escribe *Servicio de Garantia* Si te interesa gestionar la garantia para tu equipo HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c26be660f5a57dd2e706998d34f80f0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  keyword: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  answer: 'Escribe *Financiación* Si te interesa conocer sobre nuestros planes de financiación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e4be05e1f2cdfb2a8c135935ea35ddfe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10f75146-d216-427a-bca9-9353809c0c1f',
+  keyword: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  answer: 'Escribe *Otras solicitudes* Si te interesa cotizar equipos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7225e843c1c5096b979adf8fe0fd0b41'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103090582@s.whatsapp.net',
+    fromMe: false,
+    id: '4CF9029AF44C909D35CBDDA1610902EC',
+    participant: undefined
+  },
+  messageTimestamp: 1706798959,
+  pushName: 'Carolina',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Financiación',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Financiación',
+  from: '573103090582'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1180fc1b-91f9-4fa9-bcdd-ae4f4bb7a7c8',
+  keyword: 'key_97bfda60-dabc-4fc4-9365-8d617c4d3062',
+  answer: 'Financiación maxima del 30% del equipo, no aplica para montajes completos, Solo aplica para Bogotá y sus alrededores, la aprobación de este credito está sujeto a estudio crediticio en las centrales de riesgo, financiación maxima a 6 meses. (Tener en cuenta que los costos de un equipo financiado son diferentes a un equipo de contado) ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41f6faa5decd5a48e42dcd83d92c2c26'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_30c6609c-c276-4fed-bcef-bbe30fa656de',
+  keyword: 'ans_1180fc1b-91f9-4fa9-bcdd-ae4f4bb7a7c8',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c98ddf6b34e483c3dd0745cad72705dd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103090582@s.whatsapp.net',
+    fromMe: false,
+    id: '7D27B3F6F751243F2E3E1AD78831A13F',
+    participant: undefined
+  },
+  messageTimestamp: 1706799052,
+  pushName: 'Carolina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero comprar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero comprar',
+  from: '573103090582'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63e36609-57e6-4e0f-96f8-fe4ee53723aa',
+  keyword: 'key_6a6e7149-fd9b-49b7-bcea-129a2271cb24',
+  answer: 'Agradecemos tu interés, en breves momentos un asesor de HOROPAN SAS se comunicará contigo para brindarte la información que necesitas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c6845ec4a51b49ee26203b59cc25c367'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573225769100@s.whatsapp.net',
+    fromMe: false,
+    id: 'A8605612FAF3566728EAC5EB8E841F30',
+    participant: undefined
+  },
+  messageTimestamp: 1706799295,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'De 10 litros que precio tiene',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'De 10 litros que precio tiene',
+  from: '573225769100'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573225769100@s.whatsapp.net',
+    fromMe: false,
+    id: '7EC66FC2CFC673CB1CFE9564D533130B',
+    participant: undefined
+  },
+  messageTimestamp: 1706799300,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: '??',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '??',
+  from: '573225769100'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573217716040@s.whatsapp.net',
+    fromMe: false,
+    id: '6D83AF6D3E73106A97C25065637EDCB3',
+    participant: undefined
+  },
+  messageTimestamp: 1706800634,
+  pushName: 'Lucy Benavides',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573217716040'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  keyword: 'key_239e45ff-7d2b-4ec3-9013-ed69e241dd3d',
+  answer: 'HOROPAN SAS\n' +
+    '¡Bienvenido al chat de HOROPAN SAS - Fabricadores de Equipos de Panadería! 🍞 Aquí encontrarás todo lo que necesitas para llevar tus creaciones al siguiente nivel.\n' +
+    '¡Haz tus preguntas, comparte ideas y descubre lo mejor en equipos de panadería! ¡Vamos a hornear éxitos juntos! 🎉',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bae7f585b28457cbc55884d500bde80b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  keyword: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  answer: 'Nuestros horarios de atencion son: Lunes a viernes de 7-5pm y sabado de 7-12pm. Dejanos tu mensaje y cuando uno de nuetros asesores esté disponible te responderemos y daremos respuesta a tu solicitud',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '100a8b4137fd8bf874cbc35bb98472fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  keyword: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  answer: 'Escriba Menú en cualquier momento para regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd71ead6f4d9c44375067390ff15bc79'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  keyword: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  answer: 'Escribe *Adquirir equipos* Si te interesa cotizar equipos HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f922fd42a524fd98bc580aa7822b9e57'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  keyword: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  answer: 'Escribe *Servicio de Garantia* Si te interesa gestionar la garantia para tu equipo HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c26be660f5a57dd2e706998d34f80f0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  keyword: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  answer: 'Escribe *Financiación* Si te interesa conocer sobre nuestros planes de financiación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e4be05e1f2cdfb2a8c135935ea35ddfe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10f75146-d216-427a-bca9-9353809c0c1f',
+  keyword: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  answer: 'Escribe *Otras solicitudes* Si te interesa cotizar equipos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7225e843c1c5096b979adf8fe0fd0b41'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144163418@s.whatsapp.net',
+    fromMe: false,
+    id: 'D010431B1FCCA35E88E226BFD349DE6C',
+    participant: undefined
+  },
+  messageTimestamp: 1706804279,
+  pushName: '.',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573144163418'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144163418@s.whatsapp.net',
+    fromMe: false,
+    id: 'D010431B1FCCA35E88E226BFD349DE6C',
+    participant: undefined
+  },
+  messageTimestamp: 1706804280,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573144163418'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  keyword: 'key_239e45ff-7d2b-4ec3-9013-ed69e241dd3d',
+  answer: 'HOROPAN SAS\n' +
+    '¡Bienvenido al chat de HOROPAN SAS - Fabricadores de Equipos de Panadería! 🍞 Aquí encontrarás todo lo que necesitas para llevar tus creaciones al siguiente nivel.\n' +
+    '¡Haz tus preguntas, comparte ideas y descubre lo mejor en equipos de panadería! ¡Vamos a hornear éxitos juntos! 🎉',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bae7f585b28457cbc55884d500bde80b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  keyword: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  answer: 'Nuestros horarios de atencion son: Lunes a viernes de 7-5pm y sabado de 7-12pm. Dejanos tu mensaje y cuando uno de nuetros asesores esté disponible te responderemos y daremos respuesta a tu solicitud',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '100a8b4137fd8bf874cbc35bb98472fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  keyword: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  answer: 'Escriba Menú en cualquier momento para regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd71ead6f4d9c44375067390ff15bc79'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  keyword: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  answer: 'Escribe *Adquirir equipos* Si te interesa cotizar equipos HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f922fd42a524fd98bc580aa7822b9e57'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  keyword: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  answer: 'Escribe *Servicio de Garantia* Si te interesa gestionar la garantia para tu equipo HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c26be660f5a57dd2e706998d34f80f0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  keyword: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  answer: 'Escribe *Financiación* Si te interesa conocer sobre nuestros planes de financiación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e4be05e1f2cdfb2a8c135935ea35ddfe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10f75146-d216-427a-bca9-9353809c0c1f',
+  keyword: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  answer: 'Escribe *Otras solicitudes* Si te interesa cotizar equipos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7225e843c1c5096b979adf8fe0fd0b41'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144163418@s.whatsapp.net',
+    fromMe: false,
+    id: '034F7D3ED853639FD633F41AE4DC1FE8',
+    participant: undefined
+  },
+  messageTimestamp: 1706804292,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas tardes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas tardes',
+  from: '573144163418'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144163418@s.whatsapp.net',
+    fromMe: false,
+    id: 'E4C51771CE29DC3EA81932101FE37A6D',
+    participant: undefined
+  },
+  messageTimestamp: 1706804306,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que precio tiene un horno giratorio de 12 latas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que precio tiene un horno giratorio de 12 latas',
+  from: '573144163418'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d84612fa-8fd1-424a-a6cd-4e691ab474e2',
+  keyword: 'key_86d9c643-6e7c-432b-8878-4f27e562b508',
+  answer: 'Fabricamos horno estáticos y rotatorios en acero inoxidable desde 6 a 40 bandejas, la cantidad de carros extriables dependerá de la cantidad de bandejas (El horno de 6 bandejas es estatico y no tiene carro extraible), las bandejas vienen por separado (Costo de la docena: *470.000*), este horno funciona a 110V, tiene sistema de aislamiento del CO2 que permite que el producto no se contamine y proteger al usuario, el sistema que emplea para elevar la temperatura es gas natural o propano controlado por el sistema eléctrico.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebd9a4e8aa775e61692a77d891bd4345'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b3d12928-6076-4c48-a2b7-53c6dcce949b',
+  keyword: 'ans_d84612fa-8fd1-424a-a6cd-4e691ab474e2',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/szEU9ZJ.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5adc7b3251171db22434c40f09cd056'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_186b6080-d240-437b-9893-2a8f37f76785',
+  keyword: 'ans_b3d12928-6076-4c48-a2b7-53c6dcce949b',
+  answer: 'Horno 10 bandejas rotatorio\n*Precio:* 15.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '21ef4d1bb276ba1c0fd458604010f004'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ea11659c-8eca-4e6f-a31c-572f0d33d4ea',
+  keyword: 'ans_186b6080-d240-437b-9893-2a8f37f76785',
+  answer: 'Horno 10 bandejas estático\n*Precio:* 14.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab88d3e322ecbd91d5a5f843e0d6126f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_96f425c9-0fc2-44c8-9681-5fd10eb97f2b',
+  keyword: 'ans_ea11659c-8eca-4e6f-a31c-572f0d33d4ea',
+  answer: 'Horno 12 bandejas rotatorio\n*Precio:* 16.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '60fb0b03a4fc4b75682852242d540ee9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af980f9a-3407-4a6d-a382-7c62582ccb14',
+  keyword: 'ans_96f425c9-0fc2-44c8-9681-5fd10eb97f2b',
+  answer: 'Horno 15 bandejas rotatorio\n*Precio:* 19.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'abfdb0af77121067ad8825b6b5a1cada'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1c11318f-237a-442c-82b9-e66281b94134',
+  keyword: 'ans_af980f9a-3407-4a6d-a382-7c62582ccb14',
+  answer: 'Horno 18 bandejas rotatorio\n*Precio:* 21.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a91d5b6987e701f1a0e3db21544265dc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4bf83623-1cfa-431f-86b4-00ed2fc46889',
+  keyword: 'ans_1c11318f-237a-442c-82b9-e66281b94134',
+  answer: 'Horno 24 bandejas rotatorio\n*Precio:* 27.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97072a57fc321ab1e465bfa68f4eb92b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25f137f6-3837-436d-ba7d-604596028181',
+  keyword: 'ans_4bf83623-1cfa-431f-86b4-00ed2fc46889',
+  answer: 'Horno 40 bandejas rotatorio\n*Precio:* 45.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cb93f13863ee93a1beea92b182c19fc4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c43f2e92-805a-460c-85c2-e741e4f3738f',
+  keyword: 'ans_25f137f6-3837-436d-ba7d-604596028181',
+  answer: 'Te envio imagen del horno rotatorio',
+  options: {
+    media: 'https://i.imgur.com/Ymy4QdE.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a6332b3e37456cb8ce21249ff72b570a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe4b5440-1975-460a-9109-adcadab0d756',
+  keyword: 'ans_c43f2e92-805a-460c-85c2-e741e4f3738f',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/sV3iyz0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cdedb069b89bd537bcc71b49fd24fe56'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28398a97-d6a0-480e-a76e-8e498dd03bab',
+  keyword: 'ans_fe4b5440-1975-460a-9109-adcadab0d756',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/ITrkoJ7.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7dceb50d9df14dd2292ebf2fe6225781'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af8e4042-e719-4f68-9d15-bf1538089160',
+  keyword: 'ans_28398a97-d6a0-480e-a76e-8e498dd03bab',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/4hNGqNa.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ff9e0be3b147b9237281d7533251d913'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2a8cff4a-e85a-4246-b448-1cf3befe075c',
+  keyword: 'ans_af8e4042-e719-4f68-9d15-bf1538089160',
+  answer: 'Escriba *medidas diferentes* Si te interesa un horno sobre otros tamaños',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f62da968d6dbfd3280708dc7fc1b53cd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9745aff5-98bf-449f-965f-b96d3272ec15',
+  keyword: 'ans_2a8cff4a-e85a-4246-b448-1cf3befe075c',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8dc0140b477ec7766c43c961aa393bd4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144163418@s.whatsapp.net',
+    fromMe: false,
+    id: '8E2D3BA543990979EB69CE0AF36C30CC',
+    participant: undefined
+  },
+  messageTimestamp: 1706804407,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dale muchas gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dale muchas gracias',
+  from: '573144163418'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8314bff4-1f07-4c82-8d9f-bcd7f1f6a2f8',
+  keyword: 'key_618dab1e-6c70-48f0-b52c-55f98079c85f',
+  answer: 'Fue un gusto hablar contigo, estaremos aqui pendiente de cualquier duda que pueda tener',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ce5a6affd30ebb4b7da3cc532e0426f8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102230939@s.whatsapp.net',
+    fromMe: false,
+    id: '5E81A00890647824C7E3',
+    participant: undefined
+  },
+  messageTimestamp: 1706804745,
+  pushName: 'Arq. Ivan Cuervo',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/11421094_1086356962696812_6443921299919227975_n.enc?ccb=11-4&oh=01_AdTaMsf5D9bWq52nY9bRp-juYOBSrDl_h8pvLPE_V_7txA&oe=65E3279C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1024,
+      width: 776,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/11421094_1086356962696812_6443921299919227975_n.enc?ccb=11-4&oh=01_AdTaMsf5D9bWq52nY9bRp-juYOBSrDl_h8pvLPE_V_7txA&oe=65E3279C&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__d4c4520e-fb17-42fa-b9fc-d5dc1201d5cb',
+  from: '573102230939'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102230939@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7DD4955ABB709B1D03',
+    participant: undefined
+  },
+  messageTimestamp: 1706804773,
+  pushName: 'Arq. Ivan Cuervo',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/23333473_362839499827968_4618990450890873259_n.enc?ccb=11-4&oh=01_AdTvBCrIdA0OgTH0bYt4gtM9XabG6mKC8ShUMB_aOPkGqA&oe=65E34396&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1024,
+      width: 776,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/23333473_362839499827968_4618990450890873259_n.enc?ccb=11-4&oh=01_AdTvBCrIdA0OgTH0bYt4gtM9XabG6mKC8ShUMB_aOPkGqA&oe=65E34396&_nc_sid=5e03e0&_nc_hot=1706804771',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__580ff211-dba2-4147-a267-3847834a9e7c',
+  from: '573102230939'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102230939@s.whatsapp.net',
+    fromMe: false,
+    id: '3A95AB4D9275E810C01F',
+    participant: undefined
+  },
+  messageTimestamp: 1706804789,
+  pushName: 'Arq. Ivan Cuervo',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/30599027_930141862050233_7379160447918814616_n.enc?ccb=11-4&oh=01_AdRsVgdfbAe-jiebUsfgvDxTNLn7uNOnjt7PafC7hHJ58w&oe=65E33B3C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1024,
+      width: 773,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/30599027_930141862050233_7379160447918814616_n.enc?ccb=11-4&oh=01_AdRsVgdfbAe-jiebUsfgvDxTNLn7uNOnjt7PafC7hHJ58w&oe=65E33B3C&_nc_sid=5e03e0&_nc_hot=1706804785',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__1470da1c-12bb-4b89-a4e5-127a79e2cb3f',
+  from: '573102230939'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573238161791@s.whatsapp.net',
+    fromMe: false,
+    id: '6158A5DB2C44942AB93892E6B75F20D1',
+    participant: undefined
+  },
+  messageTimestamp: 1706808373,
+  pushName: '😘',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quisiera más información sobre los montajes para panadería ',
+      canonicalUrl: 'https://fb.me/3dkdEqpqG',
+      description: 'Empieza el año con el compromiso de hacer crecer tu panadería. Nuestras máquinas están diseñadas para elevar la calidad y eficiencia de tus productos. !Cumple tu propósito y lleva tu negocio a otro nivel! 🥖🥖🍞🍞 #panaderia #panaderiacolombiana #vitrinascolombia #hornopanaderia #pan #cafeteria',
+      title: 'Horopan SAS',
+      previewType: 0,
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quisiera más información sobre los montajes para panadería ',
+  from: '573238161791'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573238161791@s.whatsapp.net',
+    fromMe: false,
+    id: 'C91D535CC8B8A18D999E4B5CEBF89552',
+    participant: undefined
+  },
+  messageTimestamp: 1706808401,
+  pushName: '😘',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'En una mojadora de  12 libras',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En una mojadora de  12 libras',
+  from: '573238161791'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  keyword: 'key_1a4d617e-1393-4f4a-b44e-ded95e55e083',
+  answer: 'Mojadora/amasadora viene en capacidades de 1/2@, 1@ y 2@, estas vienen de 1 velocidad a 110V y 2 velocidades 220V,  motor brasileño con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0e091eb8121b6ac651ab0379b8172201'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  keyword: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/FW0rveX.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b69e7e81182490c9a3bd3eb471dc3b06'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  keyword: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  answer: 'Mojadora 1/2@\n*Precio:* 5.800.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '88efd187d6270cf9a25352d838c7b4bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  keyword: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  answer: 'Mojadora 1@\n*Precio:* 7.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '38654dbc8cbe62eea6967f06b64d3973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  keyword: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  answer: 'Mojadora 2@\n*Precio:* 11.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02321bb72d1ee1a5cc7a0c6ec098e5b3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6d021934-b31b-45aa-b840-278c421d572f',
+  keyword: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '85ba1f4c5f4d3f74343058e9095dfdc0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573217716040@s.whatsapp.net',
+    fromMe: false,
+    id: '71D6A2B3753A6E90F6BD95CB067A1C83',
+    participant: undefined
+  },
+  messageTimestamp: 1706809127,
+  pushName: 'Lucy Benavides',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Que valor tiene una batidora de 30 litros',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que valor tiene una batidora de 30 litros',
+  from: '573217716040'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573217716040@s.whatsapp.net',
+    fromMe: false,
+    id: 'D5AD2DCE0E320CBA534D7F47289AB75D',
+    participant: undefined
+  },
+  messageTimestamp: 1706809145,
+  pushName: 'Lucy Benavides',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Y el horno de 4 latas',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y el horno de 4 latas',
+  from: '573217716040'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d84612fa-8fd1-424a-a6cd-4e691ab474e2',
+  keyword: 'key_86d9c643-6e7c-432b-8878-4f27e562b508',
+  answer: 'Fabricamos horno estáticos y rotatorios en acero inoxidable desde 6 a 40 bandejas, la cantidad de carros extriables dependerá de la cantidad de bandejas (El horno de 6 bandejas es estatico y no tiene carro extraible), las bandejas vienen por separado (Costo de la docena: *470.000*), este horno funciona a 110V, tiene sistema de aislamiento del CO2 que permite que el producto no se contamine y proteger al usuario, el sistema que emplea para elevar la temperatura es gas natural o propano controlado por el sistema eléctrico.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebd9a4e8aa775e61692a77d891bd4345'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b3d12928-6076-4c48-a2b7-53c6dcce949b',
+  keyword: 'ans_d84612fa-8fd1-424a-a6cd-4e691ab474e2',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/szEU9ZJ.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5adc7b3251171db22434c40f09cd056'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_186b6080-d240-437b-9893-2a8f37f76785',
+  keyword: 'ans_b3d12928-6076-4c48-a2b7-53c6dcce949b',
+  answer: 'Horno 10 bandejas rotatorio\n*Precio:* 15.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '21ef4d1bb276ba1c0fd458604010f004'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ea11659c-8eca-4e6f-a31c-572f0d33d4ea',
+  keyword: 'ans_186b6080-d240-437b-9893-2a8f37f76785',
+  answer: 'Horno 10 bandejas estático\n*Precio:* 14.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab88d3e322ecbd91d5a5f843e0d6126f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_96f425c9-0fc2-44c8-9681-5fd10eb97f2b',
+  keyword: 'ans_ea11659c-8eca-4e6f-a31c-572f0d33d4ea',
+  answer: 'Horno 12 bandejas rotatorio\n*Precio:* 16.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '60fb0b03a4fc4b75682852242d540ee9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af980f9a-3407-4a6d-a382-7c62582ccb14',
+  keyword: 'ans_96f425c9-0fc2-44c8-9681-5fd10eb97f2b',
+  answer: 'Horno 15 bandejas rotatorio\n*Precio:* 19.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'abfdb0af77121067ad8825b6b5a1cada'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1c11318f-237a-442c-82b9-e66281b94134',
+  keyword: 'ans_af980f9a-3407-4a6d-a382-7c62582ccb14',
+  answer: 'Horno 18 bandejas rotatorio\n*Precio:* 21.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a91d5b6987e701f1a0e3db21544265dc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4bf83623-1cfa-431f-86b4-00ed2fc46889',
+  keyword: 'ans_1c11318f-237a-442c-82b9-e66281b94134',
+  answer: 'Horno 24 bandejas rotatorio\n*Precio:* 27.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97072a57fc321ab1e465bfa68f4eb92b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25f137f6-3837-436d-ba7d-604596028181',
+  keyword: 'ans_4bf83623-1cfa-431f-86b4-00ed2fc46889',
+  answer: 'Horno 40 bandejas rotatorio\n*Precio:* 45.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cb93f13863ee93a1beea92b182c19fc4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c43f2e92-805a-460c-85c2-e741e4f3738f',
+  keyword: 'ans_25f137f6-3837-436d-ba7d-604596028181',
+  answer: 'Te envio imagen del horno rotatorio',
+  options: {
+    media: 'https://i.imgur.com/Ymy4QdE.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a6332b3e37456cb8ce21249ff72b570a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe4b5440-1975-460a-9109-adcadab0d756',
+  keyword: 'ans_c43f2e92-805a-460c-85c2-e741e4f3738f',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/sV3iyz0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cdedb069b89bd537bcc71b49fd24fe56'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28398a97-d6a0-480e-a76e-8e498dd03bab',
+  keyword: 'ans_fe4b5440-1975-460a-9109-adcadab0d756',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/ITrkoJ7.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7dceb50d9df14dd2292ebf2fe6225781'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af8e4042-e719-4f68-9d15-bf1538089160',
+  keyword: 'ans_28398a97-d6a0-480e-a76e-8e498dd03bab',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/4hNGqNa.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ff9e0be3b147b9237281d7533251d913'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2a8cff4a-e85a-4246-b448-1cf3befe075c',
+  keyword: 'ans_af8e4042-e719-4f68-9d15-bf1538089160',
+  answer: 'Escriba *medidas diferentes* Si te interesa un horno sobre otros tamaños',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f62da968d6dbfd3280708dc7fc1b53cd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9745aff5-98bf-449f-965f-b96d3272ec15',
+  keyword: 'ans_2a8cff4a-e85a-4246-b448-1cf3befe075c',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8dc0140b477ec7766c43c961aa393bd4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573217716040@s.whatsapp.net',
+    fromMe: false,
+    id: 'D302BB5FDF2E5A8F2F63C123F865899B',
+    participant: undefined
+  },
+  messageTimestamp: 1706809288,
+  pushName: 'Lucy Benavides',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5millone cuesta la batidora',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5millone cuesta la batidora',
+  from: '573217716040'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_90709ff4-a467-4c39-aa19-cb521dda66bb',
+  keyword: 'key_6d77c6b3-5de7-44b8-9592-77ceeaab4957',
+  answer: 'Batidora industrial viene en capacidades de 10L, 20L, 30L y 40L, 3 velocidades con motor de 1hp, viene con sus accesorios: Paleta, gancho y globo en acero inoxidable, con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1509271259f84c63ac257eae30540151'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a3007cf5-dee5-486d-b966-625471c298fb',
+  keyword: 'ans_90709ff4-a467-4c39-aa19-cb521dda66bb',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/sV5EkBu.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b59bc2f6ec8a791d54df67cf6f857961'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a6945512-f064-4bde-b578-3964895be69a',
+  keyword: 'ans_a3007cf5-dee5-486d-b966-625471c298fb',
+  answer: 'Batidora 10L\n*Precio:* 2.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '16888255fddcc1465fbddb4f4109f4b7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1946b71f-244b-4502-9156-d6f544032b8b',
+  keyword: 'ans_a6945512-f064-4bde-b578-3964895be69a',
+  answer: 'Batidora 20L\n*Precio:* 3.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0be488c004e5cb263da8e6d22c1e17e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5c0a3420-08a8-4f0f-a09c-ff444047cee3',
+  keyword: 'ans_1946b71f-244b-4502-9156-d6f544032b8b',
+  answer: 'Batidora 30L\n*Precio:* 5.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b709dcd814495ea40b823255c628aa21'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc7a3631-49bb-4065-aa86-d66c15150377',
+  keyword: 'ans_5c0a3420-08a8-4f0f-a09c-ff444047cee3',
+  answer: 'Batidora 40L\n*Precio:* 10.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9c5711ca86d5ea6cf857f1309519f17a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7a37068e-6d51-4c07-939f-78670aaa7842',
+  keyword: 'ans_fc7a3631-49bb-4065-aa86-d66c15150377',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0b23faa6e231b0df3732d88202b06ae6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573238161791@s.whatsapp.net',
+    fromMe: false,
+    id: '655821DE282F6514E56892FF32B7B6CD',
+    participant: undefined
+  },
+  messageTimestamp: 1706809727,
+  pushName: '😘',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mojadora de media arroba',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mojadora de media arroba',
+  from: '573238161791'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  keyword: 'key_1a4d617e-1393-4f4a-b44e-ded95e55e083',
+  answer: 'Mojadora/amasadora viene en capacidades de 1/2@, 1@ y 2@, estas vienen de 1 velocidad a 110V y 2 velocidades 220V,  motor brasileño con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0e091eb8121b6ac651ab0379b8172201'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  keyword: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/FW0rveX.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b69e7e81182490c9a3bd3eb471dc3b06'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  keyword: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  answer: 'Mojadora 1/2@\n*Precio:* 5.800.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '88efd187d6270cf9a25352d838c7b4bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  keyword: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  answer: 'Mojadora 1@\n*Precio:* 7.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '38654dbc8cbe62eea6967f06b64d3973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  keyword: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  answer: 'Mojadora 2@\n*Precio:* 11.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02321bb72d1ee1a5cc7a0c6ec098e5b3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6d021934-b31b-45aa-b840-278c421d572f',
+  keyword: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '85ba1f4c5f4d3f74343058e9095dfdc0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: '4238E77B3DF62E8C10DB5FA4DBDE0D3E',
+    participant: undefined
+  },
+  messageTimestamp: 1706809932,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cuentame y cuánto es el mínimo del de 18',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuentame y cuánto es el mínimo del de 18',
+  from: '573115033487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102230939@s.whatsapp.net',
+    fromMe: false,
+    id: '3A91C1B6EDCE81EF9D3E',
+    participant: undefined
+  },
+  messageTimestamp: 1706810539,
+  pushName: 'Arq. Ivan Cuervo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuál???',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuál???',
+  from: '573102230939'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: '0C8CBEC5B11FF35BB20A8F4415A5F85D',
+    participant: undefined
+  },
+  messageTimestamp: 1706810874,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '????',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '????',
+  from: '573115033487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: '4ED2FE3D32F9D853DF8767E17D3C9DEE',
+    participant: undefined
+  },
+  messageTimestamp: 1706811168,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cuánto vale una vitrina',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuánto vale una vitrina',
+  from: '573115033487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7a77e62c-757c-4f39-af95-148f8b65c33c',
+  keyword: 'key_6a1e1c81-612b-4505-8284-ac2ba70a62fb',
+  answer: 'Vitrina refrigerada en acero inoxidable, logo personalizado e iluminación LED, doble entrepaño para evitar empañamiento , vitrina seca en acero inoxidable, logo personalizado e iluminación LED',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15b1f1c5d72aa5d7f5e5f3c247588c20'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25ee6a0d-38d2-441e-b28b-a321a9ea7ea1',
+  keyword: 'ans_7a77e62c-757c-4f39-af95-148f8b65c33c',
+  answer: 'Vitrina refrigerada (acero inoxidable) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 6.100.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e5ec3db4c02f04c6616272ec935a7b03'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_532bca77-2f93-43a1-a446-70f1a8198922',
+  keyword: 'ans_25ee6a0d-38d2-441e-b28b-a321a9ea7ea1',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/D8njhd0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9a249acf12f1fb59adec1490d8921e05'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5c73b452-a9d7-4fbc-850d-eb5b612bc0bc',
+  keyword: 'ans_532bca77-2f93-43a1-a446-70f1a8198922',
+  answer: 'Vitrina refrigerada (acero inoxidable con recubrimiento en madera) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 6.750.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '584ebded9b2948e0b9109867f7afa61a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ff9b382f-6d50-442f-a008-a4e81430a72d',
+  keyword: 'ans_5c73b452-a9d7-4fbc-850d-eb5b612bc0bc',
+  answer: 'Vitrina seca (acero inoxidable) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 4.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '32f5fd76713dff72cd39f87326968a83'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c57b2ab-1363-4606-9725-cf929e21dc1a',
+  keyword: 'ans_ff9b382f-6d50-442f-a008-a4e81430a72d',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/Dd2z68v.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b0c30f47312fa3ff2b89341cb043fdb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb2dea24-4c31-4584-b34e-1238cf4376e7',
+  keyword: 'ans_8c57b2ab-1363-4606-9725-cf929e21dc1a',
+  answer: 'Vitrina seca  (acero inoxidable con recubrimiento en madera) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 5.150.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1dbddde02d4789e22ec7447a8bd263d0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c3b9601-4b75-4d71-ba15-2d20b84bafdc',
+  keyword: 'ans_eb2dea24-4c31-4584-b34e-1238cf4376e7',
+  answer: 'Vitrina Canastero\n*Precio:* 16.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '207be0cb6ac461e10feb46a75fe43503'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1e4d36d7-c952-458a-a189-4f1922d21712',
+  keyword: 'ans_8c3b9601-4b75-4d71-ba15-2d20b84bafdc',
+  answer: 'Set vitrinas (Acero inoxidable) Seca, refrigerada y punto de pago\n' +
+    '*Precio:* 13.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '123c964a3364be22aa867cb86d0a9146'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6ab9ec24-9ebc-44a7-bdfa-13e95a25fedc',
+  keyword: 'ans_1e4d36d7-c952-458a-a189-4f1922d21712',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/8EYPh7b.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f3e8546b975d4222c173ed8a5e7dbdba'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1f4a698-87c5-4162-99e9-724af8dd554d',
+  keyword: 'ans_6ab9ec24-9ebc-44a7-bdfa-13e95a25fedc',
+  answer: 'Set vitrinas (Acero inoxidable con recubrimiento en madera) Seca, refrigerada y punto de pago\n' +
+    '*Precio:* 15.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '920c591e5c50097132c16f1ea96147a3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2edbae76-8a89-42f9-970a-04c0387fdf2c',
+  keyword: 'ans_a1f4a698-87c5-4162-99e9-724af8dd554d',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/niEC4r0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41753a509740cc6d5b3d95865fb22d1a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_65a112fb-f4c8-429a-b58e-c34a328d5e0c',
+  keyword: 'ans_2edbae76-8a89-42f9-970a-04c0387fdf2c',
+  answer: 'Escriba *medidas diferentes* Si te interesa cotizar vitrina sobre medidas especificas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bccc95804576aef100f91ccd80f7849c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_59000be6-945e-4f95-b541-a9dc5198c5cc',
+  keyword: 'ans_65a112fb-f4c8-429a-b58e-c34a328d5e0c',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8943b17f1aef721d25b7343f7bdab8e7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: '226F178302AF536C571C44FD0DA272B2',
+    participant: undefined
+  },
+  messageTimestamp: 1706811371,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Tengo 17 de contado',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tengo 17 de contado',
+  from: '573115033487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: '2D355E762F07C6B64C77EC9444879E2C',
+    participant: undefined
+  },
+  messageTimestamp: 1706811397,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Tengo 17 millones x el de 18 latas',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tengo 17 millones x el de 18 latas',
+  from: '573115033487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219347634@s.whatsapp.net',
+    fromMe: false,
+    id: 'BE8C2416164A9B81CA37FE4B41DE2931',
+    participant: undefined
+  },
+  messageTimestamp: 1706817468,
+  pushName: 'Ivan Lavacude',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que precio tiene el de 10 bandeja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que precio tiene el de 10 bandeja',
+  from: '573219347634'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: 'C80FC0CEFBBC7F631B53E669C8817AFC',
+    participant: undefined
+  },
+  messageTimestamp: 1706821529,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Y como es la cuestión para comprarle usted lo trae y lo arman aquí',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y como es la cuestión para comprarle usted lo trae y lo arman aquí',
+  from: '573115033487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63e36609-57e6-4e0f-96f8-fe4ee53723aa',
+  keyword: 'key_6a6e7149-fd9b-49b7-bcea-129a2271cb24',
+  answer: 'Agradecemos tu interés, en breves momentos un asesor de HOROPAN SAS se comunicará contigo para brindarte la información que necesitas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c6845ec4a51b49ee26203b59cc25c367'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: 'FCF341724AC707379A8686A3584813F2',
+    participant: undefined
+  },
+  messageTimestamp: 1706821856,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mmm como es la cuestión del pago',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mmm como es la cuestión del pago',
+  from: '573115033487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: '7DF86CBB2D3D0FC6FCC59ED3CF03F307',
+    participant: undefined
+  },
+  messageTimestamp: 1706821871,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Debo ir aya o contra entrega',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Debo ir aya o contra entrega',
+  from: '573115033487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219364267@s.whatsapp.net',
+    fromMe: false,
+    id: '103F036380244A5D5F7357FEC8B95323',
+    participant: undefined
+  },
+  messageTimestamp: 1706822024,
+  pushName: 'Leidy😊😊😊',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573219364267'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219364267@s.whatsapp.net',
+    fromMe: false,
+    id: '103F036380244A5D5F7357FEC8B95323',
+    participant: undefined
+  },
+  messageTimestamp: 1706822024,
+  pushName: 'Leidy😊😊😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buenas tardes precio de los hornos de 10 latas y donde están ubicados',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas tardes precio de los hornos de 10 latas y donde están ubicados',
+  from: '573219364267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d84612fa-8fd1-424a-a6cd-4e691ab474e2',
+  keyword: 'key_86d9c643-6e7c-432b-8878-4f27e562b508',
+  answer: 'Fabricamos horno estáticos y rotatorios en acero inoxidable desde 6 a 40 bandejas, la cantidad de carros extriables dependerá de la cantidad de bandejas (El horno de 6 bandejas es estatico y no tiene carro extraible), las bandejas vienen por separado (Costo de la docena: *470.000*), este horno funciona a 110V, tiene sistema de aislamiento del CO2 que permite que el producto no se contamine y proteger al usuario, el sistema que emplea para elevar la temperatura es gas natural o propano controlado por el sistema eléctrico.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebd9a4e8aa775e61692a77d891bd4345'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b3d12928-6076-4c48-a2b7-53c6dcce949b',
+  keyword: 'ans_d84612fa-8fd1-424a-a6cd-4e691ab474e2',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/szEU9ZJ.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5adc7b3251171db22434c40f09cd056'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_186b6080-d240-437b-9893-2a8f37f76785',
+  keyword: 'ans_b3d12928-6076-4c48-a2b7-53c6dcce949b',
+  answer: 'Horno 10 bandejas rotatorio\n*Precio:* 15.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '21ef4d1bb276ba1c0fd458604010f004'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ea11659c-8eca-4e6f-a31c-572f0d33d4ea',
+  keyword: 'ans_186b6080-d240-437b-9893-2a8f37f76785',
+  answer: 'Horno 10 bandejas estático\n*Precio:* 14.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab88d3e322ecbd91d5a5f843e0d6126f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_96f425c9-0fc2-44c8-9681-5fd10eb97f2b',
+  keyword: 'ans_ea11659c-8eca-4e6f-a31c-572f0d33d4ea',
+  answer: 'Horno 12 bandejas rotatorio\n*Precio:* 16.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '60fb0b03a4fc4b75682852242d540ee9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af980f9a-3407-4a6d-a382-7c62582ccb14',
+  keyword: 'ans_96f425c9-0fc2-44c8-9681-5fd10eb97f2b',
+  answer: 'Horno 15 bandejas rotatorio\n*Precio:* 19.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'abfdb0af77121067ad8825b6b5a1cada'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1c11318f-237a-442c-82b9-e66281b94134',
+  keyword: 'ans_af980f9a-3407-4a6d-a382-7c62582ccb14',
+  answer: 'Horno 18 bandejas rotatorio\n*Precio:* 21.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a91d5b6987e701f1a0e3db21544265dc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4bf83623-1cfa-431f-86b4-00ed2fc46889',
+  keyword: 'ans_1c11318f-237a-442c-82b9-e66281b94134',
+  answer: 'Horno 24 bandejas rotatorio\n*Precio:* 27.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97072a57fc321ab1e465bfa68f4eb92b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25f137f6-3837-436d-ba7d-604596028181',
+  keyword: 'ans_4bf83623-1cfa-431f-86b4-00ed2fc46889',
+  answer: 'Horno 40 bandejas rotatorio\n*Precio:* 45.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cb93f13863ee93a1beea92b182c19fc4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c43f2e92-805a-460c-85c2-e741e4f3738f',
+  keyword: 'ans_25f137f6-3837-436d-ba7d-604596028181',
+  answer: 'Te envio imagen del horno rotatorio',
+  options: {
+    media: 'https://i.imgur.com/Ymy4QdE.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a6332b3e37456cb8ce21249ff72b570a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe4b5440-1975-460a-9109-adcadab0d756',
+  keyword: 'ans_c43f2e92-805a-460c-85c2-e741e4f3738f',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/sV3iyz0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cdedb069b89bd537bcc71b49fd24fe56'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28398a97-d6a0-480e-a76e-8e498dd03bab',
+  keyword: 'ans_fe4b5440-1975-460a-9109-adcadab0d756',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/ITrkoJ7.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7dceb50d9df14dd2292ebf2fe6225781'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af8e4042-e719-4f68-9d15-bf1538089160',
+  keyword: 'ans_28398a97-d6a0-480e-a76e-8e498dd03bab',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/4hNGqNa.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ff9e0be3b147b9237281d7533251d913'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2a8cff4a-e85a-4246-b448-1cf3befe075c',
+  keyword: 'ans_af8e4042-e719-4f68-9d15-bf1538089160',
+  answer: 'Escriba *medidas diferentes* Si te interesa un horno sobre otros tamaños',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f62da968d6dbfd3280708dc7fc1b53cd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9745aff5-98bf-449f-965f-b96d3272ec15',
+  keyword: 'ans_2a8cff4a-e85a-4246-b448-1cf3befe075c',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8dc0140b477ec7766c43c961aa393bd4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: 'E321CD8A247E528CDC50F32384D5665D',
+    participant: undefined
+  },
+  messageTimestamp: 1706822045,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Necesito contraentrega no mandar esa cantidad de dinero así nada más',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Necesito contraentrega no mandar esa cantidad de dinero así nada más',
+  from: '573115033487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: '70460F734856F46C548348323CD203D2',
+    participant: undefined
+  },
+  messageTimestamp: 1706822078,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Y la mojadoras de 2 arrobas me aria descuento si compro las dos cosas',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y la mojadoras de 2 arrobas me aria descuento si compro las dos cosas',
+  from: '573115033487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  keyword: 'key_1a4d617e-1393-4f4a-b44e-ded95e55e083',
+  answer: 'Mojadora/amasadora viene en capacidades de 1/2@, 1@ y 2@, estas vienen de 1 velocidad a 110V y 2 velocidades 220V,  motor brasileño con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0e091eb8121b6ac651ab0379b8172201'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  keyword: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/FW0rveX.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b69e7e81182490c9a3bd3eb471dc3b06'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  keyword: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  answer: 'Mojadora 1/2@\n*Precio:* 5.800.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '88efd187d6270cf9a25352d838c7b4bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  keyword: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  answer: 'Mojadora 1@\n*Precio:* 7.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '38654dbc8cbe62eea6967f06b64d3973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  keyword: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  answer: 'Mojadora 2@\n*Precio:* 11.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02321bb72d1ee1a5cc7a0c6ec098e5b3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6d021934-b31b-45aa-b840-278c421d572f',
+  keyword: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '85ba1f4c5f4d3f74343058e9095dfdc0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115033487@s.whatsapp.net',
+    fromMe: false,
+    id: 'B344E4D453F9372F42180BC921FAB6D5',
+    participant: undefined
+  },
+  messageTimestamp: 1706822153,
+  pushName: '🙏⚡⚡⚡🙏',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Déjeme lo pienso',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Déjeme lo pienso',
+  from: '573115033487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: '0D81A9E87ABAF77DEA93B6164853C182',
+    participant: undefined
+  },
+  messageTimestamp: 1706823693,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y cuales son los precios?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y cuales son los precios?',
+  from: '573142506482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: 'D3945C1E8DBF620667ED48D72061EEBE',
+    participant: undefined
+  },
+  messageTimestamp: 1706823716,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para preguntar por los precios de los equipos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Para preguntar por los precios de los equipos',
+  from: '573142506482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: '638385C4065915B74A9AA59472BC432C',
+    participant: undefined
+  },
+  messageTimestamp: 1706823897,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ppr los hornos \nLas vitrinas \nLas mesas\nY la mojadora',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ppr los hornos \nLas vitrinas \nLas mesas\nY la mojadora',
+  from: '573142506482'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  keyword: 'key_1a4d617e-1393-4f4a-b44e-ded95e55e083',
+  answer: 'Mojadora/amasadora viene en capacidades de 1/2@, 1@ y 2@, estas vienen de 1 velocidad a 110V y 2 velocidades 220V,  motor brasileño con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0e091eb8121b6ac651ab0379b8172201'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  keyword: 'ans_623afd42-bb61-4cc6-ba0b-d483a7988636',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/FW0rveX.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b69e7e81182490c9a3bd3eb471dc3b06'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  keyword: 'ans_9e5c97fb-dd6c-478b-8421-a6ff6e7c2fbb',
+  answer: 'Mojadora 1/2@\n*Precio:* 5.800.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '88efd187d6270cf9a25352d838c7b4bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  keyword: 'ans_8c4244ac-e9c0-44de-a13e-44caa5468f4d',
+  answer: 'Mojadora 1@\n*Precio:* 7.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '38654dbc8cbe62eea6967f06b64d3973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  keyword: 'ans_d80c3914-d4a8-4e0f-bcc8-ae8f4e9f42e7',
+  answer: 'Mojadora 2@\n*Precio:* 11.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02321bb72d1ee1a5cc7a0c6ec098e5b3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6d021934-b31b-45aa-b840-278c421d572f',
+  keyword: 'ans_0b515d2e-5098-4940-ab95-5a11b83e8138',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '85ba1f4c5f4d3f74343058e9095dfdc0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208280896@s.whatsapp.net',
+    fromMe: false,
+    id: '5C20A403B32AEF881C36B5000146FCCC',
+    participant: undefined
+  },
+  messageTimestamp: 1706823925,
+  pushName: '+57 320 8280896',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas tardes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas tardes',
+  from: '573208280896'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  keyword: 'key_239e45ff-7d2b-4ec3-9013-ed69e241dd3d',
+  answer: 'HOROPAN SAS\n' +
+    '¡Bienvenido al chat de HOROPAN SAS - Fabricadores de Equipos de Panadería! 🍞 Aquí encontrarás todo lo que necesitas para llevar tus creaciones al siguiente nivel.\n' +
+    '¡Haz tus preguntas, comparte ideas y descubre lo mejor en equipos de panadería! ¡Vamos a hornear éxitos juntos! 🎉',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bae7f585b28457cbc55884d500bde80b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  keyword: 'ans_2be1affe-dada-41df-b6e1-0f53e8bdce93',
+  answer: 'Nuestros horarios de atencion son: Lunes a viernes de 7-5pm y sabado de 7-12pm. Dejanos tu mensaje y cuando uno de nuetros asesores esté disponible te responderemos y daremos respuesta a tu solicitud',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '100a8b4137fd8bf874cbc35bb98472fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  keyword: 'ans_622609cc-afae-484a-ad58-f3487f344853',
+  answer: 'Escriba Menú en cualquier momento para regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd71ead6f4d9c44375067390ff15bc79'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  keyword: 'ans_7cbe0b2a-f145-4eb4-a6ec-8a7d6b303fd8',
+  answer: 'Escribe *Adquirir equipos* Si te interesa cotizar equipos HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f922fd42a524fd98bc580aa7822b9e57'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  keyword: 'ans_db0c8d58-c45f-4823-a75e-44d3ef6ae094',
+  answer: 'Escribe *Servicio de Garantia* Si te interesa gestionar la garantia para tu equipo HOROPAN SAS',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c26be660f5a57dd2e706998d34f80f0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  keyword: 'ans_efd008b0-5564-4c3c-a609-931abd86a75c',
+  answer: 'Escribe *Financiación* Si te interesa conocer sobre nuestros planes de financiación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e4be05e1f2cdfb2a8c135935ea35ddfe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10f75146-d216-427a-bca9-9353809c0c1f',
+  keyword: 'ans_d1277f89-669a-45b7-8541-ae4b6310ae8b',
+  answer: 'Escribe *Otras solicitudes* Si te interesa cotizar equipos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7225e843c1c5096b979adf8fe0fd0b41'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: '127BBE2D3954122C359EB0E429BBC30C',
+    participant: undefined
+  },
+  messageTimestamp: 1706823938,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mesas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mesas',
+  from: '573142506482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208280896@s.whatsapp.net',
+    fromMe: false,
+    id: '8BE1F96C6B07D61A5A2C4E9B7851976A',
+    participant: undefined
+  },
+  messageTimestamp: 1706823949,
+  pushName: '+57 320 8280896',
+  broadcast: false,
+  message: Message {
+    conversation: 'si alcanzan a llevar la vitrina mañana para separar cupo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si alcanzan a llevar la vitrina mañana para separar cupo',
+  from: '573208280896'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: '71FDE0C2DF4022AC2CA76BAF95D996A0',
+    participant: undefined
+  },
+  messageTimestamp: 1706823955,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y las vitrinas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y las vitrinas',
+  from: '573142506482'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7a77e62c-757c-4f39-af95-148f8b65c33c',
+  keyword: 'key_6a1e1c81-612b-4505-8284-ac2ba70a62fb',
+  answer: 'Vitrina refrigerada en acero inoxidable, logo personalizado e iluminación LED, doble entrepaño para evitar empañamiento , vitrina seca en acero inoxidable, logo personalizado e iluminación LED',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15b1f1c5d72aa5d7f5e5f3c247588c20'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25ee6a0d-38d2-441e-b28b-a321a9ea7ea1',
+  keyword: 'ans_7a77e62c-757c-4f39-af95-148f8b65c33c',
+  answer: 'Vitrina refrigerada (acero inoxidable) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 6.100.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e5ec3db4c02f04c6616272ec935a7b03'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_532bca77-2f93-43a1-a446-70f1a8198922',
+  keyword: 'ans_25ee6a0d-38d2-441e-b28b-a321a9ea7ea1',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/D8njhd0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9a249acf12f1fb59adec1490d8921e05'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5c73b452-a9d7-4fbc-850d-eb5b612bc0bc',
+  keyword: 'ans_532bca77-2f93-43a1-a446-70f1a8198922',
+  answer: 'Vitrina refrigerada (acero inoxidable con recubrimiento en madera) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 6.750.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '584ebded9b2948e0b9109867f7afa61a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ff9b382f-6d50-442f-a008-a4e81430a72d',
+  keyword: 'ans_5c73b452-a9d7-4fbc-850d-eb5b612bc0bc',
+  answer: 'Vitrina seca (acero inoxidable) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 4.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '32f5fd76713dff72cd39f87326968a83'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c57b2ab-1363-4606-9725-cf929e21dc1a',
+  keyword: 'ans_ff9b382f-6d50-442f-a008-a4e81430a72d',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/Dd2z68v.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8b0c30f47312fa3ff2b89341cb043fdb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb2dea24-4c31-4584-b34e-1238cf4376e7',
+  keyword: 'ans_8c57b2ab-1363-4606-9725-cf929e21dc1a',
+  answer: 'Vitrina seca  (acero inoxidable con recubrimiento en madera) a medidas Largo:1,2m , Alto: 1,3m, F:60cm\n' +
+    '*Precio:* 5.150.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1dbddde02d4789e22ec7447a8bd263d0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c3b9601-4b75-4d71-ba15-2d20b84bafdc',
+  keyword: 'ans_eb2dea24-4c31-4584-b34e-1238cf4376e7',
+  answer: 'Vitrina Canastero\n*Precio:* 16.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '207be0cb6ac461e10feb46a75fe43503'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1e4d36d7-c952-458a-a189-4f1922d21712',
+  keyword: 'ans_8c3b9601-4b75-4d71-ba15-2d20b84bafdc',
+  answer: 'Set vitrinas (Acero inoxidable) Seca, refrigerada y punto de pago\n' +
+    '*Precio:* 13.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '123c964a3364be22aa867cb86d0a9146'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6ab9ec24-9ebc-44a7-bdfa-13e95a25fedc',
+  keyword: 'ans_1e4d36d7-c952-458a-a189-4f1922d21712',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/8EYPh7b.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f3e8546b975d4222c173ed8a5e7dbdba'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1f4a698-87c5-4162-99e9-724af8dd554d',
+  keyword: 'ans_6ab9ec24-9ebc-44a7-bdfa-13e95a25fedc',
+  answer: 'Set vitrinas (Acero inoxidable con recubrimiento en madera) Seca, refrigerada y punto de pago\n' +
+    '*Precio:* 15.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '920c591e5c50097132c16f1ea96147a3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2edbae76-8a89-42f9-970a-04c0387fdf2c',
+  keyword: 'ans_a1f4a698-87c5-4162-99e9-724af8dd554d',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/niEC4r0.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41753a509740cc6d5b3d95865fb22d1a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_65a112fb-f4c8-429a-b58e-c34a328d5e0c',
+  keyword: 'ans_2edbae76-8a89-42f9-970a-04c0387fdf2c',
+  answer: 'Escriba *medidas diferentes* Si te interesa cotizar vitrina sobre medidas especificas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bccc95804576aef100f91ccd80f7849c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_59000be6-945e-4f95-b541-a9dc5198c5cc',
+  keyword: 'ans_65a112fb-f4c8-429a-b58e-c34a328d5e0c',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8943b17f1aef721d25b7343f7bdab8e7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: '58FFC2ABFB4BD2F80BD94D4E1DC8D1A0',
+    participant: undefined
+  },
+  messageTimestamp: 1706824012,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mesones de trabajo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mesones de trabajo',
+  from: '573142506482'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d5b83e71-ed40-45f3-8a5b-8f9254684672',
+  keyword: 'key_abf3a97f-9a78-4be2-a161-04a2f9515c9c',
+  answer: 'Mesón de producción en acero inoxidable con base reforzada, , con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dbe58c44026bce31d134ad4255174117'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6532579f-f6d0-477a-b247-66f51fdd5517',
+  keyword: 'ans_d5b83e71-ed40-45f3-8a5b-8f9254684672',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/9YAskHf.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0889b879b762786486d465b8e32a9cb8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b1c0626b-e011-49a3-b8f8-4ea69256d3b0',
+  keyword: 'ans_6532579f-f6d0-477a-b247-66f51fdd5517',
+  answer: 'Mesón de producción Largo:1.5m , Alto: 90cm, F:90cm\n*Precio:* 1.800.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3cb08d0a2b267160c7927d84bbaf3f40'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_02cd2e82-2412-49f1-b944-2e5ea1bc9548',
+  keyword: 'ans_b1c0626b-e011-49a3-b8f8-4ea69256d3b0',
+  answer: 'Escriba *medidas diferentes* Si te interesa cotizar mesón de producción sobre medidas especificas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '98079512ba3c17dffb2bab849de11266'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7cfa814e-acc9-4f9d-9ac0-b72f20b1588a',
+  keyword: 'ans_02cd2e82-2412-49f1-b944-2e5ea1bc9548',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '515a302d645733788181d43e586c9175'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: '58FFC2ABFB4BD2F80BD94D4E1DC8D1A0',
+    participant: undefined
+  },
+  messageTimestamp: 1706824020,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mesones de trabajo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mesones de trabajo',
+  from: '573142506482'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d5b83e71-ed40-45f3-8a5b-8f9254684672',
+  keyword: 'key_abf3a97f-9a78-4be2-a161-04a2f9515c9c',
+  answer: 'Mesón de producción en acero inoxidable con base reforzada, , con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dbe58c44026bce31d134ad4255174117'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6532579f-f6d0-477a-b247-66f51fdd5517',
+  keyword: 'ans_d5b83e71-ed40-45f3-8a5b-8f9254684672',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/9YAskHf.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0889b879b762786486d465b8e32a9cb8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b1c0626b-e011-49a3-b8f8-4ea69256d3b0',
+  keyword: 'ans_6532579f-f6d0-477a-b247-66f51fdd5517',
+  answer: 'Mesón de producción Largo:1.5m , Alto: 90cm, F:90cm\n*Precio:* 1.800.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3cb08d0a2b267160c7927d84bbaf3f40'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_02cd2e82-2412-49f1-b944-2e5ea1bc9548',
+  keyword: 'ans_b1c0626b-e011-49a3-b8f8-4ea69256d3b0',
+  answer: 'Escriba *medidas diferentes* Si te interesa cotizar mesón de producción sobre medidas especificas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '98079512ba3c17dffb2bab849de11266'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7cfa814e-acc9-4f9d-9ac0-b72f20b1588a',
+  keyword: 'ans_02cd2e82-2412-49f1-b944-2e5ea1bc9548',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '515a302d645733788181d43e586c9175'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: '0E307421E27455EBA7AFC5387DD00EDF',
+    participant: undefined
+  },
+  messageTimestamp: 1706824133,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuarto de crecimiento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuarto de crecimiento',
+  from: '573142506482'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3a5ab446-38d8-402a-af1f-8b142e29e132',
+  keyword: 'key_9be3456c-c9b8-4c7b-93f9-deeec9a2a41f',
+  answer: 'Cuarto de crecimiento en acero inoxidable, viene en diferentes dimensiones, manual y automatico, Diseño de logo personalizado con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '62981e9a2bf73d3cc99d98b72824107e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_19e4eda3-91d3-4e46-a499-337e051c6aa8',
+  keyword: 'ans_3a5ab446-38d8-402a-af1f-8b142e29e132',
+  answer: ' ',
+  options: {
+    media: 'https://i.imgur.com/YW8RP9t.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '961ed24371bb5143828c25f915c1074a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9dcf9585-2250-4f3e-b58a-f36efd3480c1',
+  keyword: 'ans_19e4eda3-91d3-4e46-a499-337e051c6aa8',
+  answer: 'Cuarto de crecimiento manual de 12 bandejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cf12d770420fbb6d7aefbf3c17ea3cd6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_84c6cc17-8e4d-4a21-8b7e-2532eb595240',
+  keyword: 'ans_9dcf9585-2250-4f3e-b58a-f36efd3480c1',
+  answer: '*Precio:* 1.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '826eb7a077552315b6ccd74b31a6f34d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2d5e3638-1c22-4c72-b0a5-bbee2e33def1',
+  keyword: 'ans_84c6cc17-8e4d-4a21-8b7e-2532eb595240',
+  answer: 'Cuarto de crecimiento manual de 24 bandejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'edffe98834aca4558a412f4364f3fdea'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_113cef93-682d-40a6-b44a-5516e4cecdeb',
+  keyword: 'ans_2d5e3638-1c22-4c72-b0a5-bbee2e33def1',
+  answer: '*Precio:* 2.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2e99f00904cfe49e03e4a51701821474'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0eb89d3a-5503-441d-88b7-62ea23927740',
+  keyword: 'ans_113cef93-682d-40a6-b44a-5516e4cecdeb',
+  answer: 'Cuarto de crecimiento manual de 36 bandejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab21c794b1155fd9b5a62adb6924dd69'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9fa05c63-a097-4251-8a97-1432f7eff9bb',
+  keyword: 'ans_0eb89d3a-5503-441d-88b7-62ea23927740',
+  answer: '*Precio:* 3.000.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3d3ae1f3eeb524581c4f05285b9b3518'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_454e58b8-bf1c-4479-8e06-479e9d7c458d',
+  keyword: 'ans_9fa05c63-a097-4251-8a97-1432f7eff9bb',
+  answer: 'Escriba *medidas diferentes* Si te interesa cotizar un cuarto de crecimiento de diferentes dimensiones o el cuarto de crecimiento de control automatico',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97a379b2e1698704064dfe95be29c7fa'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3bba16c2-b103-41a2-8ba1-2a9a7637d75c',
+  keyword: 'ans_454e58b8-bf1c-4479-8e06-479e9d7c458d',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f3545b94ddf960275d79bd9e48b292a7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573142506482@s.whatsapp.net',
+    fromMe: false,
+    id: '33FD0B66C834C9A4C4D25B1A4ECEE1E8',
+    participant: undefined
+  },
+  messageTimestamp: 1706824177,
+  pushName: 'Duverney Nieves Gamboa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cortadora',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cortadora',
+  from: '573142506482'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94429da4-d77a-417b-a130-102e898b1d49',
+  keyword: 'key_9b7b4c6b-c627-4a02-8f31-46d8c71505a9',
+  answer: 'Cortadora de pan en acero inoxidable, Para 36 cortes, accesorios como: Cuchillas y tazón en acero inoxidable, recubierta con pintura electroestática, con 1 año de garantia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0e7a60babdd34413d7ab5d78e5f4a320'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8bd5e5fc-8e62-45ac-a3c9-a955b15cb0a0',
+  keyword: 'ans_94429da4-d77a-417b-a130-102e898b1d49',
+  answer: 'Información',
+  options: {
+    media: 'https://i.imgur.com/JV5xOmB.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '50b2ba0157b2bb1751e83b46b1fc48e9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9eb25b69-8e7b-402e-9438-1fd79752c91d',
+  keyword: 'ans_8bd5e5fc-8e62-45ac-a3c9-a955b15cb0a0',
+  answer: 'Cortadora 36 cortes\n*Precio:* 2.500.000',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9ae4ab3cd6fbe97ca8afa84e49a9010'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_71770392-3643-485a-9727-ecda6f24f821',
+  keyword: 'ans_9eb25b69-8e7b-402e-9438-1fd79752c91d',
+  answer: 'Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '93c22e1300cd77d85cade80b3a562fa3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573214937915@s.whatsapp.net',
+    fromMe: false,
+    id: 'E22486F791C70F384AD12C1FDAA31A17',
+    participant: undefined
+  },
+  messageTimestamp: 1706825361,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11423202_896803315363890_6283684663778573101_n.enc?ccb=11-4&oh=01_AdSaXtQuwKjSULLHVOH9YFEEB3ncYhEGMcqp7ohW16SsFw&oe=65E389CC&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 18,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11423202_896803315363890_6283684663778573101_n.enc?ccb=11-4&oh=01_AdSaXtQuwKjSULLHVOH9YFEEB3ncYhEGMcqp7ohW16SsFw&oe=65E389CC&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__ca2e7101-8f5e-4f1f-9e69-de9034a489e6',
+  from: '573214937915'
+}
