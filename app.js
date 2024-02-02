@@ -35,8 +35,12 @@ const flujoHorno = addKeyword(['horno','hornos','horno panaderia'])
 .addAnswer('Información',{
     media: 'https://i.imgur.com/szEU9ZJ.jpeg'
 })
+.addAnswer(['Horno 6 bandejas estático',"*Precio:* 8.000.000"])
+.addAnswer(['Horno 8 bandejas estático',"*Precio:* 9.500.000"])
+.addAnswer(['Horno 8 bandejas rotatorio',"*Precio:* 13.000.000"])
+.addAnswer(['Horno 10 bandejas rotatorio',"*Precio:* 12.000.000"])
 .addAnswer(['Horno 10 bandejas rotatorio',"*Precio:* 15.000.000"])
-.addAnswer(['Horno 10 bandejas estático',"*Precio:* 14.000.000"])
+.addAnswer(['Horno 12 bandejas estático',"*Precio:* 13.000.000"])
 .addAnswer(['Horno 12 bandejas rotatorio',"*Precio:* 16.000.000"])
 .addAnswer(['Horno 15 bandejas rotatorio',"*Precio:* 19.000.000"])
 .addAnswer(['Horno 18 bandejas rotatorio',"*Precio:* 21.000.000"])
@@ -90,8 +94,8 @@ const flujoMojadora = addKeyword(['mojadora','amasadora','mojadoras','amasadoras
 .addAnswer('Información',{
     media: 'https://i.imgur.com/FW0rveX.jpeg'
 })
-.addAnswer(['Mojadora 1/2@',"*Precio:* 5.800.000"])
-.addAnswer(['Mojadora 1@',"*Precio:* 7.000.000"])
+.addAnswer(['Mojadora 1/2@',"*Precio:* 5.500.000"])
+.addAnswer(['Mojadora 1@',"*Precio:* 6.800.000"])
 .addAnswer(['Mojadora 2@',"*Precio:* 11.000.000"])
 .addAnswer('Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.')
 
@@ -171,6 +175,8 @@ const flujoCuarto = addKeyword(['cuarto','cuarto de crecimiento','Cuato de ferme
 .addAnswer("*Precio:* 2.500.000")
 .addAnswer('Cuarto de crecimiento manual de 36 bandejas')
 .addAnswer("*Precio:* 3.000.000")
+.addAnswer('Cuarto de crecimiento manual de 60 bandejas')
+.addAnswer("*Precio:* 6.000.000")
 .addAnswer('Escriba *medidas diferentes* Si te interesa cotizar un cuarto de crecimiento de diferentes dimensiones o el cuarto de crecimiento de control automatico')
 .addAnswer('Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.')
 
@@ -196,13 +202,16 @@ const flujoFinanciacion = addKeyword(['financiacion','planes de financiacion','c
 .addAnswer('Financiación maxima del 30% del equipo, no aplica para montajes completos, Solo aplica para Bogotá y sus alrededores, la aprobación de este credito está sujeto a estudio crediticio en las centrales de riesgo, financiación maxima a 6 meses. (Tener en cuenta que los costos de un equipo financiado son diferentes a un equipo de contado) ')
 .addAnswer('Escriba *Quiero comprar* Si te interesa adquirir uno o varios de nuestros productos, de lo contrario escribe el nombre del producto para tener información y su precio.',{delary: 1000})
 
+const flujoubic = addKeyword(['ubicacion','donde estan ubicados'])
+.addAnswer('Estamos ubicados en Bogotá en la dirección: carrera 78a #72b-62 sur , Bosa Carlos Alban, hacemos envios a nivel nacional.')
 
 const flujoEquipos = addKeyword(['adquirir equipos','adquirir'])
 .addAnswer('En HOROPAN SAS se fabrican equipos en acero inoxidable como: Hornos estaticos y rotatorios. Grequeros, Vitrinas seca y refrigeradas (Personalizadas), Mojadoras, Batidoras, Cortadoras, Freidores, Mesón de producción , Escabiladeros')
 .addAnswer('Escribe *Quiero Catalogo* Si te interesaria que te enviemos el catalogo de HOROPAN SAS')
 .addAnswer('Escribe *Quiero cotizar* Si te interesa hablar con un asesor de HOROPAN SAS para cotizar')
+.addAnswer('Escribe *Ubicacion* Si te interesa saber donde se encuentra HOROPAN SAS')
 .addAnswer('Escribe *Otros* Si te interesa cotizar equipos'
-,null,null,[flujoCatalogo,flujoCotizar,flujoOtro])
+,null,null,[flujoCatalogo,flujoCotizar,flujoOtro,flujoubic])
 
 
 
